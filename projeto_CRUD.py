@@ -12,6 +12,7 @@ root = Tk()
 root.title('CRUD - INTRODUÇÃO')
 root.title()
 root.geometry('1000x500')
+root.resizable(width = False, height = False)
 
 
 #CRIAR UM BANCO OU CONECTAR A UM JÁ EXISTENTE
